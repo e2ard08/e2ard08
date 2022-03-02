@@ -11,7 +11,7 @@
 <html>
 <body>
 
-<h2> Certifications Clouds </h2>
+<h2> Cloud Certifications </h2>
 <ul>
   <li> AWS Certified Cloud Practitioner</li> <p><a href="https://www.credly.com/badges/635a2bf4-3e7f-4ac0-b2db-96aa67f07502?source=linked_in_profile"> check it out</a></p>
 
@@ -29,7 +29,7 @@
 
  <li> Oracle Cloud Infrastructure 2019 Certified Architect Associate</li> <p><a href="https://www.credly.com/badges/248e2795-7462-44a4-bf6a-7608cbd31277/linked_in_profile"> check it out</a></p>
 
- <li> GitOps Fundamentals Argo </li> <p><a href="https://objectstorage.us-ashburn-1.oraclecloud.com/n/id8oivyko7jh/b/Courses-Github/o/GitOps-ArgoGitOps-Argo.png"> check it out</a></p>
+ <li> GitOps Fundamentals Argo (Hosted in Oracle Cloud) </li> <p><a href="https://objectstorage.us-ashburn-1.oraclecloud.com/n/id8oivyko7jh/b/Courses-Github/o/GitOps-ArgoGitOps-Argo.png"> check it out</a></p>
 
 </ul>  
 
@@ -38,7 +38,7 @@
   <li> Foundation Google Cloud</li> <p><a href="https://www.coursera.org/account/accomplishments/verify/6NQFX8A22A9P?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course"> check it out</a></p>
   <li> Technical Support Fundamentals Google</li> <p><a href="https://www.coursera.org/account/accomplishments/verify/4BNK332GZYGG"> check it out</a></p>
   
-  <li> Aviatrix Certified Engineer</li> <p><a href="https://objectstorage.us-ashburn-1.oraclecloud.com/n/id8oivyko7jh/b/Courses-Github/o/Aviatrix-CertificateAviatrix-Certificate.png"> check it out</a></p>
+  <li> Aviatrix Certified Engineer (Hosted in Oracle Cloud) </li> <p><a href="https://objectstorage.us-ashburn-1.oraclecloud.com/n/id8oivyko7jh/b/Courses-Github/o/Aviatrix-CertificateAviatrix-Certificate.png"> check it out</a></p>
 
  <li> Architecting with Kubernetes Engine Google </li> <p><a href="https://www.coursera.org/account/accomplishments/certificate/53H44R9LEDHM"> check it out</a></p>
 
