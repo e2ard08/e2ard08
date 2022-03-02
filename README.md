@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ... DevOps Tools 
 - 🤔 I’m looking for help with ... Find my firts Job in USA 🇺🇸 
 - 🧳 I’m From Venezuela 🇻🇪  , I lived 4 years in Argentina 🇦🇷 , currently live in Florida 🇺🇸 
-- 💬 Ask me about ...  what you want 
+- 💬 I Speak ... Spanish - Portuguese - English  
 - 📫 How to reach me: ... edward.8805@gmail.com
 
 <!DOCTYPE html>
