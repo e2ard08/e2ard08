@@ -1,8 +1,7 @@
 🥷 I`m a Edward Delgado Technical Support Specialist | Cloud Enginner
 
 - 🔭 I’m currently working on ... Certify my knowledge 
-- 🌱 I’m currently learning ... DevOps Tools 
-- 🤔 I’m looking for help with ... Find my firts Job in USA 🇺🇸 
+- 🌱 I’m currently learning ... DevOps Tools 🇸 
 - 🧳 I’m From Venezuela 🇻🇪  , I lived 4 years in Argentina 🇦🇷 , currently live in Florida 🇺🇸 
 - 💬 I Speak ... Spanish - Portuguese - English  
 - 📫 How to reach me: ... edward.8805@gmail.com
