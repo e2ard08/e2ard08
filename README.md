@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working on ... Certify my knowledge 
 - 🌱 I’m currently learning ... DevOps Tools 🇸 
-- 🧳 I’m From Venezuela 🇻🇪  , I lived 4 years in Argentina 🇦🇷 , currently live in Florida 🇺🇸 
-- 💬 I Speak ... Spanish - Portuguese - English  
+- 🧳 I’m From Venezuela 🇻🇪  , I lived 4 years in Argentina 🇦🇷 , currently live in Omaha , Nebraska 🇺🇸 
+- 💬 I Speak ... Spanish (Native ) - Portuguese - English  
 - 📫 How to reach me: ... edward.8805@gmail.com
 
 <!DOCTYPE html>
