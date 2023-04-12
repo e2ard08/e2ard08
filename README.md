@@ -30,7 +30,7 @@
 
  <li> GitOps Fundamentals Argo (Hosted in Oracle Cloud) </li> <p><a href="https://objectstorage.us-ashburn-1.oraclecloud.com/n/id8oivyko7jh/b/Courses-Github/o/GitOps-ArgoGitOps-Argo.png"> check it out</a></p>
 
- <li> GitLab Certified Associate  </li> <p><a href="[https://e2ard-cert.s3.amazonaws.com/Gitlab-cert.png](https://www.credly.com/badges/1311783e-5371-4ec2-a964-f68fa5894d43/public_url)"> check it out</a></p>
+ <li> GitLab Certified Associate  </li> <p><a href="https://www.credly.com/badges/1311783e-5371-4ec2-a964-f68fa5894d43/public_url"> check it out</a></p>
 
 
 </ul>  
