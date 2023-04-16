@@ -14,6 +14,8 @@
 <ul>
   <li> AWS Certified Cloud Practitioner</li> <p><a href="https://www.credly.com/badges/635a2bf4-3e7f-4ac0-b2db-96aa67f07502?source=linked_in_profile"> check it out</a></p>
 
+  <li> AWS Cloud Quest: Cloud Practitioner </li> <p><a href="https://www.credly.com/badges/28413d58-91a8-4b5c-a2e9-12b14a28d850/public_url"> check it out</a></p>
+
  <li> Microsoft Certified: Azure Fundamentals</li> <p><a href="https://www.credly.com/badges/5fd2422b-9f33-42f6-97b7-1fdd9e1e0148?source=linked_in_profile"> check it out</a></p>
 
  <li> Oracle Cloud Infrastructure Foundations 2021 Certified Associate</li> <p><a href="https://www.credly.com/badges/4d3d2ff3-40e8-4bb5-8f72-48ce0dda8d21?source=linked_in_profile"> check it out</a></p>
