@@ -52,5 +52,15 @@
 
 </ul>  
 
+  
+<h2> Certification goals 2023 </h2>
+<ul>
+  
+  <li> AWS Cloud Architect Associate </li>
+  <li> Microsoft Azure Administrator </li>
+  <li> Cisco CCNA or Comptia+ </li>
+  <li> Terraform Associate </li>
+  <li> Certified Kubernetes CKA or CKAD </li> 
+  
 </body>
 </html>
