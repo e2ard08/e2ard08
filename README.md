@@ -18,6 +18,9 @@
 
  <li> Microsoft Certified: Azure Fundamentals</li> <p><a href="https://www.credly.com/badges/5fd2422b-9f33-42f6-97b7-1fdd9e1e0148?source=linked_in_profile"> check it out</a></p>
 
+ <li> Oracle Cloud Infrastructure 2022 Certified Foundations Associate
+</li> <p><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=6C010C53C78C381E47C1AB0D57ECA5DC2F2449C9F90F096C25930780DD8C0EE6"> check it out</a></p>
+
  <li> Oracle Cloud Infrastructure Foundations 2021 Certified Associate</li> <p><a href="https://www.credly.com/badges/4d3d2ff3-40e8-4bb5-8f72-48ce0dda8d21?source=linked_in_profile"> check it out</a></p>
 
  <li> Oracle Cloud Infrastructure 2020 Certified Architect Associate (in recertification process ) </li> <p><a href="https://www.credly.com/earner/earned/badge/255aa737-6769-4830-86d1-77a4c2f1df46"> check it out</a></p>
