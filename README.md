@@ -12,6 +12,9 @@
 
 <h2> Cloud Certifications </h2>
 <ul>
+
+  <li> Amazon Cloud Support Specialist 2023 </li> <p><a href="https://www.credential.net/7539c258-6ed3-4a3f-b46d-176a39fc9123#gs.16b165"> check it out</a></p>
+
   <li> AWS Certified Cloud Practitioner</li> <p><a href="https://www.credly.com/badges/635a2bf4-3e7f-4ac0-b2db-96aa67f07502?source=linked_in_profile"> check it out</a></p>
 
   <li> AWS Cloud Quest: Cloud Practitioner </li> <p><a href="https://www.credly.com/badges/28413d58-91a8-4b5c-a2e9-12b14a28d850/public_url"> check it out</a></p>
