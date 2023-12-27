@@ -1,5 +1,5 @@
 🥷 I`m a Edward Delgado Technical Support Specialist | Cloud Enginner
-
+- Ex-Oracle Cloud Engineer
 - 🔭 I’m currently working on ... Certify my knowledge 
 - 🌱 I’m currently learning ... DevOps Tools 🇸 
 - 🧳 I’m From Venezuela 🇻🇪  , I lived 4 years in Argentina 🇦🇷 , currently live in Omaha , Nebraska 🇺🇸 
