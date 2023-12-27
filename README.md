@@ -59,7 +59,7 @@
 </ul>  
 
   
-<h2> Certification goals 2023 </h2>
+<h2> Certification goals 2024 </h2>
 <ul>
   
   <li> AWS Cloud Architect Associate </li>
