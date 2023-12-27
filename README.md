@@ -5,6 +5,7 @@
 - 🧳 I’m From Venezuela 🇻🇪  , I lived 4 years in Argentina 🇦🇷 , currently live in Omaha , Nebraska 🇺🇸 
 - 💬 I Speak ... Spanish (Native ) - Portuguese - English  
 - 📫 How to reach me: ... edward.8805@gmail.com
+ <li> Linkedin </li> <p><a href="https://www.linkedin.com/in/eedelgado/"> check it out</a></p>
 
 <!DOCTYPE html>
 <html>
