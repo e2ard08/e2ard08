@@ -1,4 +1,7 @@
-🥷 I`m a Edward Delgado Technical Support Specialist | Cloud Enginner
+
+<div class="tenor-gif-embed" data-postid="1750056094467610487" data-share-method="host" data-aspect-ratio="1.79137" data-width="100%"><a href="https://tenor.com/view/april-fools-joke-dog-its-fine-this-is-not-gif-1750056094467610487">April Fools Joke GIF</a>from <a href="https://tenor.com/search/april+fools-gifs">April Fools GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+  🥷 I`m a Edward Delgado Technical Support Specialist | Cloud Enginner
 - Ex-Oracle Cloud Engineer From Latam Public Sector
 - 🔭 I’m currently working on ... Certify my knowledge 
 - 🌱 I’m currently learning ... DevOps Tools  
@@ -23,18 +26,19 @@
 <h2> Active - Cloud Certifications - 2023 </h2>
 <ul>
   <li> Amazon Cloud Support Specialist 2023 <a href="https://www.credential.net/7539c258-6ed3-4a3f-b46d-176a39fc9123#gs.16b165"> check it out</a></li>
-  <li> AWS Certified Cloud Practitioner 2023 - 2026 </li> 
-  <p><a href="https://www.credly.com/badges/ea4c4ec5-88fc-4158-9594-97b6900a4e48/public_url"> check it out</a></p>
-  <li> AWS Cloud Quest: Cloud Practitioner </li> 
-  <p><a href="https://www.credly.com/badges/28413d58-91a8-4b5c-a2e9-12b14a28d850/public_url"> check it out</a></p>
-  <li> Microsoft Certified: Azure Fundamentals</li> 
-  <p><a href="https://www.credly.com/badges/5fd2422b-9f33-42f6-97b7-1fdd9e1e0148?source=linked_in_profile"> check it out</a></p>
-  <li> GitOps Fundamentals Argo (Hosted in Oracle Cloud) </li> 
-  <p><a href="https://objectstorage.us-ashburn-1.oraclecloud.com/n/id8oivyko7jh/b/Courses-Github/o/GitOps-ArgoGitOps-Argo.png"> check it out</a></p>
-  <li> GitLab Certified Associate  </li> 
-  <p><a href="https://www.credly.com/badges/1311783e-5371-4ec2-a964-f68fa5894d43/public_url"> check it out</a></p>
-  <li> Oracle Cloud Infrastructure 2022 Certified Foundations Associate</li>
-  <p><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=6C010C53C78C381E47C1AB0D57ECA5DC2F2449C9F90F096C25930780DD8C0EE6"> check it out</a></p>
+  
+  <li> AWS Certified Cloud Practitioner 2023 - 2026 <a href="https://www.credly.com/badges/ea4c4ec5-88fc-4158-9594-97b6900a4e48/public_url"> check it out</a><li>
+  
+  <li> AWS Cloud Quest: Cloud Practitioner <a href="https://www.credly.com/badges/28413d58-91a8-4b5c-a2e9-12b14a28d850/public_url"> check it out</a> </li> 
+  
+  <li> Microsoft Certified: Azure Fundamentals <a href="https://www.credly.com/badges/5fd2422b-9f33-42f6-97b7-1fdd9e1e0148?source=linked_in_profile"> check it out</a></li> 
+  
+  <li> GitOps Fundamentals Argo (Hosted in Oracle Cloud) <a href="https://objectstorage.us-ashburn-1.oraclecloud.com/n/id8oivyko7jh/b/Courses-Github/o/GitOps-ArgoGitOps-Argo.png"> check it out</a></li> 
+  
+  <li> GitLab Certified Associate <a href="https://www.credly.com/badges/1311783e-5371-4ec2-a964-f68fa5894d43/public_url"> check it out</a></li> 
+  
+  <li> Oracle Cloud Infrastructure 2022 Certified Foundations Associate <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=6C010C53C78C381E47C1AB0D57ECA5DC2F2449C9F90F096C25930780DD8C0EE6"> check it out</a></li>
+  
 </ul>
 
 <h2> Active - Course Certifications </h2>
