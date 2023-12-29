@@ -1,5 +1,5 @@
 
-![Gift] (https://media1.tenor.com/m/GElyvue_13cAAAAC/april-fools-joke.gif)
+![Gift] (./img/its.gif)
   🥷 I`m a Edward Delgado Technical Support Specialist | Cloud Enginner
 - Ex-Oracle Cloud Engineer From Latam Public Sector
 - 🔭 I’m currently working on ... Certify my knowledge 
