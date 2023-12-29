@@ -23,11 +23,12 @@
 
 <h2> Active - Cloud Certifications - 2023 </h2>
 <ul>
+  
   <li> Amazon Cloud Support Specialist 2023 <a href="https://www.credential.net/7539c258-6ed3-4a3f-b46d-176a39fc9123#gs.16b165"> check it out</a></li>
   
   <li> AWS Certified Cloud Practitioner 2023 - 2026 <a href="https://www.credly.com/badges/ea4c4ec5-88fc-4158-9594-97b6900a4e48/public_url"> check it out</a><li>
   
-  <li> AWS Cloud Quest: Cloud Practitioner <a href="https://www.credly.com/badges/28413d58-91a8-4b5c-a2e9-12b14a28d850/public_url"> check it out</a> </li> 
+  <li> AWS Cloud Quest: Cloud Practitioner <a href="https://www.credly.com/badges/28413d58-91a8-4b5c-a2e9-12b14a28d850/public_url"> check it out</a></li> 
   
   <li> Microsoft Certified: Azure Fundamentals <a href="https://www.credly.com/badges/5fd2422b-9f33-42f6-97b7-1fdd9e1e0148?source=linked_in_profile"> check it out</a></li> 
   
@@ -55,7 +56,7 @@
 </ul>
 
 
-<h2> Old Certifications - in recertification process </h2>
+<h2> Old Certifications - in recertification Process </h2>
 <ul>
 
  <li> Oracle Cloud Infrastructure Foundations 2021 Certified Associate</li> 
