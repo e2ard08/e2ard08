@@ -1,6 +1,5 @@
 
-<div class="tenor-gif-embed" data-postid="1750056094467610487" data-share-method="host" data-aspect-ratio="1.79137" data-width="100%"><a href="https://tenor.com/view/april-fools-joke-dog-its-fine-this-is-not-gif-1750056094467610487">April Fools Joke GIF</a>from <a href="https://tenor.com/search/april+fools-gifs">April Fools GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
+![Gift] (https://tenor.com/view/april-fools-joke-dog-its-fine-this-is-not-gif-1750056094467610487)
   🥷 I`m a Edward Delgado Technical Support Specialist | Cloud Enginner
 - Ex-Oracle Cloud Engineer From Latam Public Sector
 - 🔭 I’m currently working on ... Certify my knowledge 
