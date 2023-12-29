@@ -1,5 +1,5 @@
 
-![Gift] (https://tenor.com/view/april-fools-joke-dog-its-fine-this-is-not-gif-1750056094467610487)
+![Gift] (https://media1.tenor.com/m/GElyvue_13cAAAAC/april-fools-joke.gif)
   🥷 I`m a Edward Delgado Technical Support Specialist | Cloud Enginner
 - Ex-Oracle Cloud Engineer From Latam Public Sector
 - 🔭 I’m currently working on ... Certify my knowledge 
