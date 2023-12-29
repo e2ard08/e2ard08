@@ -1,8 +1,4 @@
 
-<div style="text-align:center;">
-  <img src="/img/its.gif" alt="its Gif" />
-</div>
-
 - 🥷 I`m a Edward Delgado Technical Support Specialist | Cloud Enginner
 - Ex-Oracle Cloud Engineer From Latam Public Sector
 - 🔭 I’m currently working on ... Certify my knowledge 
