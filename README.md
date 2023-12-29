@@ -1,5 +1,5 @@
 
-![Gift] (./img/its.gif)
+![Gift](/img/its.gif)
   🥷 I`m a Edward Delgado Technical Support Specialist | Cloud Enginner
 - Ex-Oracle Cloud Engineer From Latam Public Sector
 - 🔭 I’m currently working on ... Certify my knowledge 
