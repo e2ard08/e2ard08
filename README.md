@@ -5,7 +5,7 @@
 - 🧳 I’m From Caracas - Venezuela 🇻🇪  , I lived 4 years in Buenos Aires - Argentina 🇦🇷 , currently live in Nebraska , United States  🇺🇸 
 - 💬 I Speak ... Spanish (Native ) - Portuguese - English  
 - 📫 How to reach me: ... edward.8805@gmail.com
- <li> Linkedin <a href="https://www.linkedin.com/in/eedelgado/"> check it out</a> </li>  
+- Linkedin <a href="https://www.linkedin.com/in/eedelgado/"> check it out</a>  
 
 <!DOCTYPE html>
 <html>
@@ -22,8 +22,7 @@
 
 <h2> Active - Cloud Certifications - 2023 </h2>
 <ul>
-  <li> Amazon Cloud Support Specialist 2023  
-  <p><a href="https://www.credential.net/7539c258-6ed3-4a3f-b46d-176a39fc9123#gs.16b165"> check it out</a></p></li>
+  <li> Amazon Cloud Support Specialist 2023 <a href="https://www.credential.net/7539c258-6ed3-4a3f-b46d-176a39fc9123#gs.16b165"> check it out</a></li>
   <li> AWS Certified Cloud Practitioner 2023 - 2026 </li> 
   <p><a href="https://www.credly.com/badges/ea4c4ec5-88fc-4158-9594-97b6900a4e48/public_url"> check it out</a></p>
   <li> AWS Cloud Quest: Cloud Practitioner </li> 
