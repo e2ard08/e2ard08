@@ -7,8 +7,7 @@
 - 💬 I Speak ... Spanish (Native ) - Portuguese - English  
 - 📫 How to reach me: ... edward.8805@gmail.com
 - Linkedin <a href="https://www.linkedin.com/in/eedelgado/"> check it out</a> 
-- Website with Docker <img src="https://icons8.com/icon/cdYUlRaag9G9/docker">
-
+- Website with Docker :whale2:  <a href ="http://www.e2ard.com">Check it out </a></li> 
 <!DOCTYPE html>
 <html>
 <body>
