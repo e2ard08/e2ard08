@@ -6,7 +6,8 @@
 - 🧳 I’m From Caracas - Venezuela 🇻🇪  , I lived 4 years in Buenos Aires - Argentina 🇦🇷 , currently live in Nebraska , United States  🇺🇸 
 - 💬 I Speak ... Spanish (Native ) - Portuguese - English  
 - 📫 How to reach me: ... edward.8805@gmail.com
-- Linkedin <a href="https://www.linkedin.com/in/eedelgado/"> check it out</a>  
+- Linkedin <a href="https://www.linkedin.com/in/eedelgado/"> check it out</a> 
+- Website with Docker < img src="https://icons8.com/icon/cdYUlRaag9G9/docker">
 
 <!DOCTYPE html>
 <html>
@@ -18,7 +19,7 @@
   <li> Microsoft Azure Administrator </li>
   <li> AWS Cloud Architect Associate </li>
   <li> Certified Kubernetes CKA or CKAD </li>
-  <li> Cisco Networking Essentials  ✅  <a href ="https://www.credly.com/badges/867c73a8-5d22-473c-bd55-77208ae94663">Check it out </a></li>  
+  <li> Cisco Networking Essentials  ✅ <a href ="https://www.credly.com/badges/867c73a8-5d22-473c-bd55-77208ae94663">Check it out </a></li>  
 </ul>  
 
 <h2> Active - Cloud Certifications - 2023 </h2>
@@ -44,15 +45,15 @@
 <h2> Active - Course Certifications </h2>
 <ul>
   <li> Foundation Google Cloud  ✅</li> <p><a href="https://www.coursera.org/account/accomplishments/verify/6NQFX8A22A9P?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course"> check it out</a></p>
-  <li> Technical Support Fundamentals Google  ✅</li> <a href="https://www.coursera.org/account/accomplishments/verify/4BNK332GZYGG"> Check it out</a>
+  <li> Technical Support Fundamentals Google  ✅ </li> <a href="https://www.coursera.org/account/accomplishments/verify/4BNK332GZYGG"> Check it out</a>
   
-  <li> Aviatrix Certified Engineer (Hosted in Oracle Cloud)  ✅ </li> <p><a href="https://objectstorage.us-ashburn-1.oraclecloud.com/n/id8oivyko7jh/b/Courses-Github/o/Aviatrix-CertificateAviatrix-Certificate.png"> Check it out</a></p>
+  <li> Aviatrix Certified Engineer (Hosted in Oracle Cloud)  ✅ </li> <a href="https://objectstorage.us-ashburn-1.oraclecloud.com/n/id8oivyko7jh/b/Courses-Github/o/Aviatrix-CertificateAviatrix-Certificate.png"> Check it out</a>
 
- <li> Architecting with Kubernetes Engine Google  ✅ </li> <p><a href="https://www.coursera.org/account/accomplishments/certificate/53H44R9LEDHM"> Check it out</a></p>
+ <li> Architecting with Kubernetes Engine Google  ✅ </li> <a href="https://www.coursera.org/account/accomplishments/certificate/53H44R9LEDHM"> Check it out</a>
 
- <li> Kubernetes for the Absolute Beginners  ✅</li> <p><a href="https://www.udemy.com/certificate/UC-98968c33-ec79-46d1-a1c0-5c6e81497b79/"> Check it out</a></p>
+ <li> Kubernetes for the Absolute Beginners  ✅</li><a href="https://www.udemy.com/certificate/UC-98968c33-ec79-46d1-a1c0-5c6e81497b79/"> Check it out</a>
 
- <li> Windows Server Administration   ✅</li> <p><a href="https://www.udemy.com/certificate/UC-ZZMPSJEM/"> Check it out</a></p>
+ <li> Windows Server Administration   ✅</li><a href="https://www.udemy.com/certificate/UC-ZZMPSJEM/"> Check it out</a>
 
 </ul>
 
