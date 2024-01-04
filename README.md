@@ -44,7 +44,7 @@
 <h2> Active - Course Certifications </h2>
 <ul>
   <li> Foundation Google Cloud  ✅</li> <p><a href="https://www.coursera.org/account/accomplishments/verify/6NQFX8A22A9P?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course"> check it out</a></p>
-  <li> Technical Support Fundamentals Google  ✅</li> <p><a href="https://www.coursera.org/account/accomplishments/verify/4BNK332GZYGG"> Check it out</a></p>
+  <li> Technical Support Fundamentals Google  ✅</li> <a href="https://www.coursera.org/account/accomplishments/verify/4BNK332GZYGG"> Check it out</a>
   
   <li> Aviatrix Certified Engineer (Hosted in Oracle Cloud)  ✅ </li> <p><a href="https://objectstorage.us-ashburn-1.oraclecloud.com/n/id8oivyko7jh/b/Courses-Github/o/Aviatrix-CertificateAviatrix-Certificate.png"> Check it out</a></p>
 
