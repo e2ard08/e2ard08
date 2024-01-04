@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning ... DevOps Tools  
 - 🧳 I’m From Caracas - Venezuela 🇻🇪  , I lived 4 years in Buenos Aires - Argentina 🇦🇷 , currently live in Nebraska , United States  🇺🇸 
 - 💬 I Speak ... Spanish (Native ) - Portuguese - English  
-- 📫 How to reach me: ... edward.8805@gmail.com
+- 📫 How to reach me:
 - Linkedin <a href="https://www.linkedin.com/in/eedelgado/"> Check it out</a> 
 - Website with Docker :whale2:  <a href ="http://www.e2ard.com">Check it out </a></li> 
 <!DOCTYPE html>
@@ -18,7 +18,7 @@
   <li> Microsoft Azure Administrator </li>
   <li> AWS Cloud Architect Associate </li>
   <li> Certified Kubernetes CKA or CKAD </li>
-  <li> Cisco Networking Essentials  ✅ <a href ="https://www.credly.com/badges/867c73a8-5d22-473c-bd55-77208ae94663">Check it out </a></li>  
+  <li> Cisco Networking Essentials    ✅ <a href ="https://www.credly.com/badges/867c73a8-5d22-473c-bd55-77208ae94663">Check it out </a></li>  
 </ul>  
 
 <h2> Active - Cloud Certifications - 2023 </h2>
@@ -43,7 +43,7 @@
 
 <h2> Active - Course Certifications </h2>
 <ul>
-  <li> Foundation Google Cloud  ✅  <a href="https://www.coursera.org/account/accomplishments/verify/6NQFX8A22A9P?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course"> check it out</a> </li> 
+  <li> Foundation Google Cloud  ✅  <a href="https://www.coursera.org/account/accomplishments/verify/6NQFX8A22A9P?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course"> Check it out</a> </li> 
 
   <li> Technical Support Fundamentals Google  ✅  <a href="https://www.coursera.org/account/accomplishments/verify/4BNK332GZYGG"> Check it out</a> </li> 
   
@@ -58,7 +58,7 @@
 </ul>
 
 
-<h2> Old Certifications - Re-certification Process </h2>
+<h2> Old Certificates </h2>
 <ul>
 
  <li> Oracle Cloud Infrastructure Foundations 2021 Certified Associate <a href="https://www.credly.com/badges/4d3d2ff3-40e8-4bb5-8f72-48ce0dda8d21?source=linked_in_profile"> Check it out</a> </li>
@@ -71,7 +71,6 @@
  
  <li> Oracle Cloud Infrastructure 2019 Certified Architect Associate <a href="https://www.credly.com/badges/248e2795-7462-44a4-bf6a-7608cbd31277/linked_in_profile"> Check it out</a> </li>
 
- <li> Oracle Cloud Infrastructure 2019 Certified Architect Associate <a href="https://www.credly.com/badges/248e2795-7462-44a4-bf6a-7608cbd31277/linked_in_profile"> Check it out</a> </li> 
  
 
  </ul>  
