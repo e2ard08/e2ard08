@@ -6,7 +6,7 @@
 - 🧳 I’m From Caracas - Venezuela 🇻🇪  , I lived 4 years in Buenos Aires - Argentina 🇦🇷 , currently live in Nebraska , United States  🇺🇸 
 - 💬 I Speak ... Spanish (Native ) - Portuguese - English  
 - 📫 How to reach me: ... edward.8805@gmail.com
-- Linkedin <a href="https://www.linkedin.com/in/eedelgado/"> check it out</a> 
+- Linkedin <a href="https://www.linkedin.com/in/eedelgado/"> Check it out</a> 
 - Website with Docker :whale2:  <a href ="http://www.e2ard.com">Check it out </a></li> 
 <!DOCTYPE html>
 <html>
@@ -43,16 +43,17 @@
 
 <h2> Active - Course Certifications </h2>
 <ul>
-  <li> Foundation Google Cloud  ✅</li> <p><a href="https://www.coursera.org/account/accomplishments/verify/6NQFX8A22A9P?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course"> check it out</a></p>
-  <li> Technical Support Fundamentals Google  ✅ </li> <a href="https://www.coursera.org/account/accomplishments/verify/4BNK332GZYGG"> Check it out</a>
+  <li> Foundation Google Cloud  ✅  <a href="https://www.coursera.org/account/accomplishments/verify/6NQFX8A22A9P?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course"> check it out</a> </li> 
+
+  <li> Technical Support Fundamentals Google  ✅  <a href="https://www.coursera.org/account/accomplishments/verify/4BNK332GZYGG"> Check it out</a> </li> 
   
-  <li> Aviatrix Certified Engineer (Hosted in Oracle Cloud)  ✅ </li> <a href="https://objectstorage.us-ashburn-1.oraclecloud.com/n/id8oivyko7jh/b/Courses-Github/o/Aviatrix-CertificateAviatrix-Certificate.png"> Check it out</a>
+  <li> Aviatrix Certified Engineer (Hosted in Oracle Cloud)  ✅ <a href="https://objectstorage.us-ashburn-1.oraclecloud.com/n/id8oivyko7jh/b/Courses-Github/o/Aviatrix-CertificateAviatrix-Certificate.png"> Check it out</a> </li> 
 
- <li> Architecting with Kubernetes Engine Google  ✅ </li> <a href="https://www.coursera.org/account/accomplishments/certificate/53H44R9LEDHM"> Check it out</a>
+ <li> Architecting with Kubernetes Engine Google  ✅ <a href="https://www.coursera.org/account/accomplishments/certificate/53H44R9LEDHM"> Check it out</a> </li> 
 
- <li> Kubernetes for the Absolute Beginners  ✅</li><a href="https://www.udemy.com/certificate/UC-98968c33-ec79-46d1-a1c0-5c6e81497b79/"> Check it out</a>
+ <li> Kubernetes for the Absolute Beginners  ✅  <a href="https://www.udemy.com/certificate/UC-98968c33-ec79-46d1-a1c0-5c6e81497b79/"> Check it out</a> </li>
 
- <li> Windows Server Administration   ✅</li><a href="https://www.udemy.com/certificate/UC-ZZMPSJEM/"> Check it out</a>
+ <li> Windows Server Administration   ✅  <a href="https://www.udemy.com/certificate/UC-ZZMPSJEM/"> Check it out</a> </li>
 
 </ul>
 
@@ -60,23 +61,18 @@
 <h2> Old Certifications - Re-certification Process </h2>
 <ul>
 
- <li> Oracle Cloud Infrastructure Foundations 2021 Certified Associate</li> 
- <p><a href="https://www.credly.com/badges/4d3d2ff3-40e8-4bb5-8f72-48ce0dda8d21?source=linked_in_profile"> Check it out</a></p>
+ <li> Oracle Cloud Infrastructure Foundations 2021 Certified Associate <a href="https://www.credly.com/badges/4d3d2ff3-40e8-4bb5-8f72-48ce0dda8d21?source=linked_in_profile"> Check it out</a> </li>
 
- <li> Oracle Cloud Infrastructure 2020 Certified Architect Associate (in recertification process ) </li> 
- <p><a href="https://www.credly.com/earner/earned/badge/255aa737-6769-4830-86d1-77a4c2f1df46"> Check it out</a></p>
+ <li> Oracle Cloud Infrastructure 2020 Certified Architect Associate <a href="https://www.credly.com/earner/earned/badge/255aa737-6769-4830-86d1-77a4c2f1df46"> Check it out</a> </li>
 
- <li> Oracle Cloud Infrastructure Developer 2020 Certified Associate. (in recertification process ) </li> 
- <p><a href="https://www.credly.com/badges/54c8de21-569d-49bb-982d-4adebf76d2fc?source=linked_in_profile"> Check it out</a></p>
+ <li> Oracle Cloud Infrastructure Developer 2020 Certified Associate. <a href="https://www.credly.com/badges/54c8de21-569d-49bb-982d-4adebf76d2fc?source=linked_in_profile"> Check it out</a> </li> 
 
- <li> Oracle Autonomous Database Cloud 2019 Certified Specialist. (in recertification process )</li> 
- <p><a href="https://www.credly.com/badges/b2d4099c-b0be-4cb8-ad90-e2ce2db6641a/linked_in_profile"> Check it out</a></p>
+ <li> Oracle Autonomous Database Cloud 2019 Certified Specialist. <a href="https://www.credly.com/badges/b2d4099c-b0be-4cb8-ad90-e2ce2db6641a/linked_in_profile"> Check it out</a> </li> 
+ 
+ <li> Oracle Cloud Infrastructure 2019 Certified Architect Associate <a href="https://www.credly.com/badges/248e2795-7462-44a4-bf6a-7608cbd31277/linked_in_profile"> Check it out</a> </li>
 
- <li> Oracle Cloud Infrastructure 2019 Certified Architect Associate</li> 
- <p><a href="https://www.credly.com/badges/248e2795-7462-44a4-bf6a-7608cbd31277/linked_in_profile"> Check it out</a></p>
-
- <li> Oracle Cloud Infrastructure 2019 Certified Architect Associate</li> 
- <p><a href="https://www.credly.com/badges/248e2795-7462-44a4-bf6a-7608cbd31277/linked_in_profile"> Check it out</a></p>
+ <li> Oracle Cloud Infrastructure 2019 Certified Architect Associate <a href="https://www.credly.com/badges/248e2795-7462-44a4-bf6a-7608cbd31277/linked_in_profile"> Check it out</a> </li> 
+ 
 
  </ul>  
   
