@@ -14,11 +14,13 @@
 
 <h2> Certification Goals 2024 </h2>
 <ul>
+  <li> Docker Essentials by IBM   ✅ <a href ="https://www.credly.com/badges/bc6c65b8-64ce-46b0-8cef-4a1b1c5f682d">Check it out </a></li>
+  <li> Cisco Networking Essentials    ✅ <a href ="https://www.credly.com/badges/867c73a8-5d22-473c-bd55-77208ae94663">Check it out </a></li>
   <li> Terraform Associate </li>
   <li> Microsoft Azure Administrator </li>
   <li> AWS Cloud Architect Associate </li>
   <li> Certified Kubernetes CKA or CKAD </li>
-  <li> Cisco Networking Essentials    ✅ <a href ="https://www.credly.com/badges/867c73a8-5d22-473c-bd55-77208ae94663">Check it out </a></li>  
+    
 </ul>  
 
 <h2> Active - Cloud Certifications - 2023 </h2>
