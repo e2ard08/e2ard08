@@ -23,6 +23,15 @@
     
 </ul>  
 
+<h2> Course Certifications 2024 </h2>
+<ul>
+  <li> LFD102: A Beginner's Guide to Open Source Software Development  ✅  <a href="https://www.credly.com/earner/earned/badge/4b924aff-45a9-4f79-8227-1af79da4d31b"> Check it out</a> </li> 
+  
+  <li> LFS169: Introduction to GitOps  ✅  <a href="https://www.credly.com/earner/earned/badge/0db3b4c5-bb5c-4a75-b503-cc5230756e76"> Check it out</a> </li> 
+</ul>
+
+
+
 <h2> Active - Cloud Certifications - 2023 </h2>
 <ul>
   
