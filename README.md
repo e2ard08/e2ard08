@@ -1,5 +1,5 @@
 
-- 🥷 I`m a Edward Delgado Technical Support Specialist | Cloud Enginner
+- 🥷 I`m a Edward Delgado Technical Support Specialist | Cloud Engineer
 - Ex-Oracle Cloud Engineer From Latam Public Sector
 - 🔭 I’m currently working on ... Certify my knowledge 
 - 🌱 I’m currently learning ... DevOps Tools  
