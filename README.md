@@ -12,16 +12,12 @@
 <html>
 <body>
 
-<h2> Certification Goals 2024 </h2>
+<h2> Certification Goals 2025 </h2>
 <ul>
-  <li> Docker Essentials by IBM   ✅ <a href ="https://www.credly.com/badges/bc6c65b8-64ce-46b0-8cef-4a1b1c5f682d">Check it out </a></li>
-  <li> Cisco Networking Essentials    ✅ <a href ="https://www.credly.com/badges/867c73a8-5d22-473c-bd55-77208ae94663">Check it out </a></li>
-  <li> Python Essentials 1  ✅ <a href ="https://www.credly.com/badges/bb0db4bf-0a58-465b-a355-adf1027594b2/public_url">Check it out </a></li>
-  <li> Github Foundations ✅ <a href ="https://www.credly.com/badges/7222a30b-5979-46cc-8dbf-a2fa07ba488f/linked_in?t=sn4it3">Check it out </a></li>
   <li> Terraform Associate </li>
-  <li> Microsoft Azure Administrator </li>
   <li> AWS Cloud Architect Associate </li>
   <li> Certified Kubernetes CKA or CKAD </li>
+  <li> Microsoft Azure Administrator </li>
     
 </ul>  
 
@@ -30,6 +26,13 @@
   <li> LFD102: A Beginner's Guide to Open Source Software Development  ✅  <a href="https://www.credly.com/earner/earned/badge/4b924aff-45a9-4f79-8227-1af79da4d31b"> Check it out</a> </li> 
   
   <li> LFS169: Introduction to GitOps  ✅  <a href="https://www.credly.com/earner/earned/badge/0db3b4c5-bb5c-4a75-b503-cc5230756e76"> Check it out</a> </li> 
+  <li> Docker Essentials by IBM   ✅ <a href ="https://www.credly.com/badges/bc6c65b8-64ce-46b0-8cef-4a1b1c5f682d">Check it out </a></li>
+  <li> Cisco Networking Essentials    ✅ <a href ="https://www.credly.com/badges/867c73a8-5d22-473c-bd55-77208ae94663">Check it out </a> 
+  </li>
+  <li> Python Essentials 1  ✅ <a href ="https://www.credly.com/badges/bb0db4bf-0a58-465b-a355-adf1027594b2/public_url">Check it out </a> 
+  </li>
+  <li> Github Foundations ✅ <a href ="https://www.credly.com/badges/7222a30b-5979-46cc-8dbf-a2fa07ba488f/linked_in?t=sn4it3">Check it out </a></li>
+  
 </ul>
 
 
