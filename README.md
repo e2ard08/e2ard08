@@ -14,6 +14,7 @@
 
 <h2> Certification Goals 2025 </h2>
 <ul>
+  <li> Badge AWS Knowledge: Networking Core ✅  <a href="https://www.credly.com/badges/517da365-1d83-4f93-b64a-75d7aace009d/linked_in?t=sq30jv"> Check it out</a> </li> 
   <li> Terraform Associate </li>
   <li> AWS Cloud Architect Associate </li>
   <li> Certified Kubernetes CKA or CKAD </li>
