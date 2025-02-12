@@ -3,7 +3,7 @@
 - Ex-Oracle Cloud Engineer From Latam Public Sector
 - 🔭 I’m currently working on ... Certify my knowledge 
 - 🌱 I’m currently learning ... DevOps Tools  
-- 🧳 I’m From Caracas - Venezuela 🇻🇪  , I lived 4 years in Buenos Aires - Argentina 🇦🇷 , currently live in Nebraska , United States  🇺🇸 
+- 🧳 I’m From Venezuela 🇻🇪  , I lived 4 years in - Argentina 🇦🇷 , currently live in Nebraska , United States  🇺🇸 
 - 💬 I Speak ... Spanish (Native ) - Portuguese - English  
 - 📫 How to reach me:
 - Linkedin <a href="https://www.linkedin.com/in/eedelgado/"> Check it out</a> 
