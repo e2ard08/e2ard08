@@ -16,7 +16,7 @@
 <ul>
   <li> Badge AWS Knowledge: Architecting ✅  <a href="https://www.credly.com/earner/earned/badge/9c9adb4a-d83c-4931-806a-c38196fc3224"> Check it out</a> </li>
   <li> Badge AWS Knowledge: Networking Core ✅  <a href="https://www.credly.com/badges/517da365-1d83-4f93-b64a-75d7aace009d/linked_in?t=sq30jv"> Check it out</a> </li> 
-  <li> Badge AWS Educate Getting Started with Storage ✅ < a href="https://www.credly.com/earner/earned/badge/c01c14fd-9206-43f6-be96-f646fab09f66" > Check it Out </a> </li>
+  <li> Badge AWS Educate Getting Started with Storage ✅ <a href="https://www.credly.com/earner/earned/badge/c01c14fd-9206-43f6-be96-f646fab09f66"> Check it Out </a> </li>
   <li> Terraform Associate </li>
   <li> AWS Cloud Architect Associate </li>
   <li> Certified Kubernetes CKA or CKAD </li>
