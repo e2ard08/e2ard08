@@ -26,6 +26,12 @@
     
 </ul>  
 
+<h2> Course Certifications 2025 </h2>
+<ul>
+  <li>  HashiCorp Certified: Terraform Associate - Hands-On Labs ✅  <a href="https://www.udemy.com/certificate/UC-d29369a4-d984-4992-b7e4-eb68e44bbcdd/"> Check it out</a> </li> 
+  <li>  Introduction to Platform Engineering ✅ <a href="https://www.virtualbadge.io/certificate-validator?credential=5be9cd51-1c0c-4470-9107-d1f65e34feb1"> Check it out</a> </li>
+</ul>
+
 <h2> Course Certifications 2024 </h2>
 <ul>
   <li> LFD102: A Beginner's Guide to Open Source Software Development  ✅  <a href="https://www.credly.com/earner/earned/badge/4b924aff-45a9-4f79-8227-1af79da4d31b"> Check it out</a> </li> 
