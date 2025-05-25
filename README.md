@@ -15,10 +15,11 @@
 <h2> Certification Goals 2025 </h2>
 <ul>
 
-  <li> AWS Certified Solutions Architect – Associate ✅  <a href="https://www.credly.com/badges/e8e500c0-fd14-4622-8360-a85d72dc089f/public_url"> Check it out</a> </li>
-  <li> Badge AWS Knowledge: Architecting ✅  <a href="https://www.credly.com/earner/earned/badge/9c9adb4a-d83c-4931-806a-c38196fc3224"> Check it out</a> </li>
-  <li> Badge AWS Knowledge: Networking Core ✅  <a href="https://www.credly.com/badges/517da365-1d83-4f93-b64a-75d7aace009d/linked_in?t=sq30jv"> Check it out</a> </li> 
-  <li> Badge AWS Educate Getting Started with Storage ✅ <a href="https://www.credly.com/earner/earned/badge/c01c14fd-9206-43f6-be96-f646fab09f66"> Check it Out </a> </li>
+  <li> AWS Certified Solutions Architect 2025 – Associate ✅  <a href="https://www.credly.com/badges/e8e500c0-fd14-4622-8360-a85d72dc089f/public_url"> Check it out</a> </li>
+  <li> Badge AWS Knowledge: Architecting 2025✅  <a href="https://www.credly.com/earner/earned/badge/9c9adb4a-d83c-4931-806a-c38196fc3224"> Check it out</a> </li>
+  <li> Badge AWS Knowledge: Networking Core 2025 ✅  <a href="https://www.credly.com/badges/517da365-1d83-4f93-b64a-75d7aace009d/linked_in?t=sq30jv"> Check it out</a> </li> 
+  <li> Badge AWS Educate Getting Started with Storage 2025 ✅ <a href="https://www.credly.com/earner/earned/badge/c01c14fd-9206-43f6-be96-f646fab09f66"> Check it Out </a> </li>
+  <li> Oracle Cloud Infrastructure 2025 Certified Foundations Associate ✅ <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=C6830DB289EDEB60147472C90E32E4474F553925186A204A2E533FEBA1DE421C"> Check it Out </a> </li>
   <li> Terraform Associate </li>
   <li> Certified Kubernetes CKA or CKAD </li>
   <li> Microsoft Azure Administrator </li>
